@@ -9,9 +9,7 @@ Matrix screen visualization
   <br>
   <br>
  
-   <img src="https://giphy.com/embed/IGYi09xWnp4ngyLS3h" width="200"/>
-  <iframe src="https://giphy.com/embed/IGYi09xWnp4ngyLS3h" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  </p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/IGYi09xWnp4ngyLS3h" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/matrix-IGYi09xWnp4ngyLS3h">via GIPHY</a></p>
   
 
 
