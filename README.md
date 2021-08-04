@@ -9,7 +9,7 @@ Matrix screen visualization
   <br>
   <br>
  
- <img src ="https://media.giphy.com/media/epBRIQIE6zthOs6EkR/giphy.gif" width = "300">
+ <img src ="https://i.pinimg.com/originals/3c/c0/d8/3cc0d8577acc865120f493ac4546c049.gif" width = "300">
 
   
 
